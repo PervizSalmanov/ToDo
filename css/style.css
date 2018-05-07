@@ -1,0 +1,10 @@
+@font-face {font-family: HelveticaNeue-Bold; src: url(../fonts/HelveticaNeue-Bold.ttf);}
+li{font-family: HelveticaNeue-Bold; list-style: none;}
+ul li {cursor: pointer;position: relative;padding: 12px 8px 12px 40px;}
+ul li.checked::before {content: '';position: absolute; border-color: #000;border-style: solid;border-width: 0 2px 2px 0;top: 19px;left: 16px;transform: rotate(45deg);height: 15px;width: 7px;}
+.todo{background: url(../images/todo.png) no-repeat;  height: 53px; width: 236px}
+.todo p{font-weight: bold;	text-align: center; color: #fff; top: 15px; position: relative;}
+ul#menu {margin-left: -41px;}
+span.close{margin-left: 5px;font-size: 25px;}
+button{background: red;padding: 14px 34px 4px 12px;width: 9px;height: 10px; border-radius: 5px}
+input#hel {margin-left: 3px;}
