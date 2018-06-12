@@ -6,5 +6,5 @@ ul li.checked::before {content: '';position: absolute; border-color: #000;border
 .todo p{font-weight: bold;	text-align: center; color: #fff; top: 15px; position: relative;}
 ul#menu {margin-left: -41px;}
 span.close{margin-left: 5px;font-size: 25px;}
-button{background: red;padding: 14px 34px 4px 12px;width: 9px;height: 10px; border-radius: 5px}
+button{background: red;padding: 14px 61px 4px 12px;width: 9px;height: 10px; border-radius: 5px}
 input#hel {margin-left: 3px;}
