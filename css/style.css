@@ -8,4 +8,4 @@ ul#menu {margin-left: -41px;}
 span.close{margin-left: 5px;font-size: 25px;}
 button{background: red;padding: 14px 35px 4px 12px;width: 9px;height: 10px;border-radius: 5px;}
 input#hel {margin-left: 3px;}
-
+div#wrapper {position: absolute;top: 50%;left: 50%;margin: -235px 0 0 -125px;}
